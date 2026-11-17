@@ -1,0 +1,3122 @@
+[
+  {
+    "slug": "work-001",
+    "sort": 240,
+    "body": {
+      "date": "2020-02-01",
+      "featured": false,
+      "image": "/assets/f0.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t0.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-002",
+    "sort": 239,
+    "body": {
+      "date": "2024-06-21",
+      "featured": false,
+      "image": "/assets/f1.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t1.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-003",
+    "sort": 238,
+    "body": {
+      "date": "2025-06-24",
+      "featured": false,
+      "image": "/assets/f2.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t2.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-004",
+    "sort": 237,
+    "body": {
+      "date": "2022-01-26",
+      "featured": false,
+      "image": "/assets/f3.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t3.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-005",
+    "sort": 236,
+    "body": {
+      "date": "2020-01-16",
+      "featured": false,
+      "image": "/assets/f4.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t4.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-006",
+    "sort": 235,
+    "body": {
+      "date": "2024-09-19",
+      "featured": false,
+      "image": "/assets/f5.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t5.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-007",
+    "sort": 234,
+    "body": {
+      "date": "2023-11-20",
+      "featured": false,
+      "image": "/assets/f6.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t6.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-008",
+    "sort": 233,
+    "body": {
+      "date": "2019-11-27",
+      "featured": false,
+      "image": "/assets/f7.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t7.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-009",
+    "sort": 232,
+    "body": {
+      "date": "2020-07-17",
+      "featured": false,
+      "image": "/assets/f8.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t8.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-010",
+    "sort": 231,
+    "body": {
+      "date": "2025-08-08",
+      "featured": false,
+      "image": "/assets/f9.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t9.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-011",
+    "sort": 230,
+    "body": {
+      "date": "2020-09-02",
+      "featured": false,
+      "image": "/assets/f10.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t10.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-012",
+    "sort": 229,
+    "body": {
+      "date": "2024-12-19",
+      "featured": false,
+      "image": "/assets/f11.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t11.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-013",
+    "sort": 228,
+    "body": {
+      "date": "2024-08-05",
+      "featured": false,
+      "image": "/assets/f12.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t12.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-014",
+    "sort": 227,
+    "body": {
+      "date": "2024-04-03",
+      "featured": false,
+      "image": "/assets/f13.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t13.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-015",
+    "sort": 226,
+    "body": {
+      "date": "2019-01-16",
+      "featured": false,
+      "image": "/assets/f14.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t14.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-016",
+    "sort": 225,
+    "body": {
+      "date": "2021-09-23",
+      "featured": false,
+      "image": "/assets/f15.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t15.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-017",
+    "sort": 224,
+    "body": {
+      "date": "2024-02-07",
+      "featured": false,
+      "image": "/assets/f16.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t16.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-018",
+    "sort": 223,
+    "body": {
+      "date": "2019-02-24",
+      "featured": false,
+      "image": "/assets/f17.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t17.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-019",
+    "sort": 222,
+    "body": {
+      "date": "2024-07-02",
+      "featured": false,
+      "image": "/assets/f18.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t18.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-020",
+    "sort": 221,
+    "body": {
+      "date": "2022-10-01",
+      "featured": false,
+      "image": "/assets/f19.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t19.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-021",
+    "sort": 220,
+    "body": {
+      "date": "2024-03-21",
+      "featured": false,
+      "image": "/assets/f20.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t20.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-022",
+    "sort": 219,
+    "body": {
+      "date": "2021-11-17",
+      "featured": false,
+      "image": "/assets/f21.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t21.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-023",
+    "sort": 218,
+    "body": {
+      "date": "2026-01-01",
+      "featured": false,
+      "image": "/assets/f22.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t22.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-024",
+    "sort": 217,
+    "body": {
+      "date": "2022-01-01",
+      "featured": false,
+      "image": "/assets/f23.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t23.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-025",
+    "sort": 216,
+    "body": {
+      "date": "2026-09-02",
+      "featured": false,
+      "image": "/assets/f24.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t24.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-026",
+    "sort": 215,
+    "body": {
+      "date": "2023-08-08",
+      "featured": false,
+      "image": "/assets/f25.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t25.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-027",
+    "sort": 214,
+    "body": {
+      "date": "2021-01-24",
+      "featured": false,
+      "image": "/assets/f26.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t26.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-028",
+    "sort": 213,
+    "body": {
+      "date": "2023-01-07",
+      "featured": false,
+      "image": "/assets/f27.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t27.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-029",
+    "sort": 212,
+    "body": {
+      "date": "2025-01-20",
+      "featured": false,
+      "image": "/assets/f28.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t28.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-030",
+    "sort": 211,
+    "body": {
+      "date": "2026-04-08",
+      "featured": false,
+      "image": "/assets/f29.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t29.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-031",
+    "sort": 210,
+    "body": {
+      "date": "2024-10-06",
+      "featured": false,
+      "image": "/assets/f30.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t30.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-032",
+    "sort": 209,
+    "body": {
+      "date": "2022-03-13",
+      "featured": false,
+      "image": "/assets/f31.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t31.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-033",
+    "sort": 208,
+    "body": {
+      "date": "2024-09-10",
+      "featured": false,
+      "image": "/assets/f32.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t32.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-034",
+    "sort": 207,
+    "body": {
+      "date": "2023-04-23",
+      "featured": false,
+      "image": "/assets/f33.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t33.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-035",
+    "sort": 206,
+    "body": {
+      "date": "2019-03-01",
+      "featured": false,
+      "image": "/assets/f34.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t34.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-036",
+    "sort": 205,
+    "body": {
+      "date": "2022-06-25",
+      "featured": false,
+      "image": "/assets/f35.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t35.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-037",
+    "sort": 204,
+    "body": {
+      "date": "2021-05-16",
+      "featured": false,
+      "image": "/assets/f36.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t36.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-038",
+    "sort": 203,
+    "body": {
+      "date": "2022-10-06",
+      "featured": false,
+      "image": "/assets/f37.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t37.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-039",
+    "sort": 202,
+    "body": {
+      "date": "2023-01-13",
+      "featured": false,
+      "image": "/assets/f38.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t38.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-040",
+    "sort": 201,
+    "body": {
+      "date": "2021-11-02",
+      "featured": false,
+      "image": "/assets/f39.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t39.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-041",
+    "sort": 200,
+    "body": {
+      "date": "2026-07-15",
+      "featured": true,
+      "image": "/assets/f40.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t40.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-042",
+    "sort": 199,
+    "body": {
+      "date": "2021-03-05",
+      "featured": false,
+      "image": "/assets/f41.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t41.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-043",
+    "sort": 198,
+    "body": {
+      "date": "2019-06-03",
+      "featured": false,
+      "image": "/assets/f42.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t42.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-044",
+    "sort": 197,
+    "body": {
+      "date": "2026-01-16",
+      "featured": false,
+      "image": "/assets/f43.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t43.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-045",
+    "sort": 196,
+    "body": {
+      "date": "2019-07-14",
+      "featured": false,
+      "image": "/assets/f44.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t44.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-046",
+    "sort": 195,
+    "body": {
+      "date": "2019-02-17",
+      "featured": false,
+      "image": "/assets/f45.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t45.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-047",
+    "sort": 194,
+    "body": {
+      "date": "2024-02-13",
+      "featured": false,
+      "image": "/assets/f46.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t46.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-048",
+    "sort": 193,
+    "body": {
+      "date": "2025-07-22",
+      "featured": false,
+      "image": "/assets/f47.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t47.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-049",
+    "sort": 192,
+    "body": {
+      "date": "2019-06-06",
+      "featured": false,
+      "image": "/assets/f48.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t48.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-050",
+    "sort": 191,
+    "body": {
+      "date": "2025-08-11",
+      "featured": false,
+      "image": "/assets/f49.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t49.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-051",
+    "sort": 190,
+    "body": {
+      "date": "2022-06-24",
+      "featured": false,
+      "image": "/assets/f50.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t50.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-052",
+    "sort": 189,
+    "body": {
+      "date": "2025-10-17",
+      "featured": false,
+      "image": "/assets/f51.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t51.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-053",
+    "sort": 188,
+    "body": {
+      "date": "2019-03-05",
+      "featured": false,
+      "image": "/assets/f52.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t52.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-054",
+    "sort": 187,
+    "body": {
+      "date": "2022-05-10",
+      "featured": false,
+      "image": "/assets/f53.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t53.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-055",
+    "sort": 186,
+    "body": {
+      "date": "2019-10-11",
+      "featured": false,
+      "image": "/assets/f54.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t54.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-056",
+    "sort": 185,
+    "body": {
+      "date": "2023-08-08",
+      "featured": false,
+      "image": "/assets/f55.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t55.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-057",
+    "sort": 184,
+    "body": {
+      "date": "2021-03-19",
+      "featured": true,
+      "image": "/assets/f56.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t56.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-058",
+    "sort": 183,
+    "body": {
+      "date": "2021-05-02",
+      "featured": false,
+      "image": "/assets/f57.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t57.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-059",
+    "sort": 182,
+    "body": {
+      "date": "2022-05-23",
+      "featured": false,
+      "image": "/assets/f58.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t58.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-060",
+    "sort": 181,
+    "body": {
+      "date": "2021-04-07",
+      "featured": false,
+      "image": "/assets/f59.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t59.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-061",
+    "sort": 180,
+    "body": {
+      "date": "2026-08-06",
+      "featured": false,
+      "image": "/assets/f60.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t60.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-062",
+    "sort": 179,
+    "body": {
+      "date": "2026-01-21",
+      "featured": false,
+      "image": "/assets/f61.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t61.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-063",
+    "sort": 178,
+    "body": {
+      "date": "2026-10-16",
+      "featured": false,
+      "image": "/assets/f62.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t62.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-064",
+    "sort": 177,
+    "body": {
+      "date": "2020-03-10",
+      "featured": false,
+      "image": "/assets/f63.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t63.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-065",
+    "sort": 176,
+    "body": {
+      "date": "2019-03-21",
+      "featured": false,
+      "image": "/assets/f64.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t64.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-066",
+    "sort": 175,
+    "body": {
+      "date": "2019-09-22",
+      "featured": false,
+      "image": "/assets/f65.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t65.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-067",
+    "sort": 174,
+    "body": {
+      "date": "2021-07-06",
+      "featured": false,
+      "image": "/assets/f66.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t66.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-068",
+    "sort": 173,
+    "body": {
+      "date": "2019-05-01",
+      "featured": false,
+      "image": "/assets/f67.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t67.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-069",
+    "sort": 172,
+    "body": {
+      "date": "2024-09-06",
+      "featured": false,
+      "image": "/assets/f68.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t68.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-070",
+    "sort": 171,
+    "body": {
+      "date": "2025-10-19",
+      "featured": false,
+      "image": "/assets/f69.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t69.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-071",
+    "sort": 170,
+    "body": {
+      "date": "2022-03-23",
+      "featured": false,
+      "image": "/assets/f70.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t70.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-072",
+    "sort": 169,
+    "body": {
+      "date": "2024-01-14",
+      "featured": false,
+      "image": "/assets/f71.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t71.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-073",
+    "sort": 168,
+    "body": {
+      "date": "2024-03-06",
+      "featured": false,
+      "image": "/assets/blog_how_to_write_copy_that_fits_your_template.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t72.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-074",
+    "sort": 167,
+    "body": {
+      "date": "2026-09-18",
+      "featured": false,
+      "image": "/assets/f73.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t73.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-075",
+    "sort": 166,
+    "body": {
+      "date": "2026-10-15",
+      "featured": false,
+      "image": "/assets/f74.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t74.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-076",
+    "sort": 165,
+    "body": {
+      "date": "2023-06-03",
+      "featured": false,
+      "image": "/assets/f75.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t75.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-077",
+    "sort": 164,
+    "body": {
+      "date": "2024-03-06",
+      "featured": true,
+      "image": "/assets/f76.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t76.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-078",
+    "sort": 163,
+    "body": {
+      "date": "2025-08-22",
+      "featured": false,
+      "image": "/assets/f77.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t77.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-079",
+    "sort": 162,
+    "body": {
+      "date": "2026-07-06",
+      "featured": true,
+      "image": "/assets/f78.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t78.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-080",
+    "sort": 161,
+    "body": {
+      "date": "2023-01-20",
+      "featured": false,
+      "image": "/assets/f79.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t79.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-081",
+    "sort": 160,
+    "body": {
+      "date": "2025-03-19",
+      "featured": false,
+      "image": "/assets/f80.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t80.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-082",
+    "sort": 159,
+    "body": {
+      "date": "2021-10-21",
+      "featured": false,
+      "image": "/assets/f81.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t81.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-083",
+    "sort": 158,
+    "body": {
+      "date": "2023-03-01",
+      "featured": false,
+      "image": "/assets/f82.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t82.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-084",
+    "sort": 157,
+    "body": {
+      "date": "2023-09-10",
+      "featured": false,
+      "image": "/assets/f83.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t83.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-085",
+    "sort": 156,
+    "body": {
+      "date": "2023-08-21",
+      "featured": false,
+      "image": "/assets/f84.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t84.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-086",
+    "sort": 155,
+    "body": {
+      "date": "2021-09-01",
+      "featured": false,
+      "image": "/assets/f85.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t85.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-087",
+    "sort": 154,
+    "body": {
+      "date": "2021-01-20",
+      "featured": false,
+      "image": "/assets/f86.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t86.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-088",
+    "sort": 153,
+    "body": {
+      "date": "2022-05-11",
+      "featured": false,
+      "image": "/assets/f87.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t87.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-089",
+    "sort": 152,
+    "body": {
+      "date": "2021-09-21",
+      "featured": false,
+      "image": "/assets/f88.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t88.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-090",
+    "sort": 151,
+    "body": {
+      "date": "2023-01-08",
+      "featured": false,
+      "image": "/assets/f89.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t89.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-091",
+    "sort": 150,
+    "body": {
+      "date": "2026-09-26",
+      "featured": false,
+      "image": "/assets/f90.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t90.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-092",
+    "sort": 149,
+    "body": {
+      "date": "2023-05-13",
+      "featured": false,
+      "image": "/assets/f91.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t91.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-093",
+    "sort": 148,
+    "body": {
+      "date": "2022-09-28",
+      "featured": false,
+      "image": "/assets/f92.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t92.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-094",
+    "sort": 147,
+    "body": {
+      "date": "2020-04-17",
+      "featured": false,
+      "image": "/assets/f93.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t93.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-095",
+    "sort": 146,
+    "body": {
+      "date": "2019-11-09",
+      "featured": true,
+      "image": "/assets/f94.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t94.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-096",
+    "sort": 145,
+    "body": {
+      "date": "2022-06-15",
+      "featured": false,
+      "image": "/assets/f95.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t95.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-097",
+    "sort": 144,
+    "body": {
+      "date": "2020-12-23",
+      "featured": false,
+      "image": "/assets/f96.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t96.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-098",
+    "sort": 143,
+    "body": {
+      "date": "2026-07-25",
+      "featured": false,
+      "image": "/assets/f97.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t97.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-099",
+    "sort": 142,
+    "body": {
+      "date": "2026-04-20",
+      "featured": false,
+      "image": "/assets/f98.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t98.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-100",
+    "sort": 141,
+    "body": {
+      "date": "2025-07-14",
+      "featured": false,
+      "image": "/assets/f99.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t99.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-101",
+    "sort": 140,
+    "body": {
+      "date": "2024-10-19",
+      "featured": false,
+      "image": "/assets/f100.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t100.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-102",
+    "sort": 139,
+    "body": {
+      "date": "2023-11-16",
+      "featured": false,
+      "image": "/assets/f101.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t101.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-103",
+    "sort": 138,
+    "body": {
+      "date": "2022-09-01",
+      "featured": false,
+      "image": "/assets/f102.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t102.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-104",
+    "sort": 137,
+    "body": {
+      "date": "2022-06-13",
+      "featured": false,
+      "image": "/assets/f103.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t103.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-105",
+    "sort": 136,
+    "body": {
+      "date": "2020-09-09",
+      "featured": false,
+      "image": "/assets/f104.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t104.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-106",
+    "sort": 135,
+    "body": {
+      "date": "2026-07-14",
+      "featured": false,
+      "image": "/assets/f105.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t105.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-107",
+    "sort": 134,
+    "body": {
+      "date": "2021-01-16",
+      "featured": false,
+      "image": "/assets/f106.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t106.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-108",
+    "sort": 133,
+    "body": {
+      "date": "2020-06-10",
+      "featured": false,
+      "image": "/assets/f107.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t107.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-109",
+    "sort": 132,
+    "body": {
+      "date": "2024-04-28",
+      "featured": false,
+      "image": "/assets/f108.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t108.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-110",
+    "sort": 131,
+    "body": {
+      "date": "2020-06-09",
+      "featured": false,
+      "image": "/assets/f109.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t109.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-111",
+    "sort": 130,
+    "body": {
+      "date": "2025-07-01",
+      "featured": false,
+      "image": "/assets/f110.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t110.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-112",
+    "sort": 129,
+    "body": {
+      "date": "2021-05-26",
+      "featured": false,
+      "image": "/assets/f111.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t111.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-113",
+    "sort": 128,
+    "body": {
+      "date": "2026-12-02",
+      "featured": false,
+      "image": "/assets/f112.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t112.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-114",
+    "sort": 127,
+    "body": {
+      "date": "2023-04-02",
+      "featured": true,
+      "image": "/assets/f113.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t113.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-115",
+    "sort": 126,
+    "body": {
+      "date": "2019-01-19",
+      "featured": false,
+      "image": "/assets/f114.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t114.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-116",
+    "sort": 125,
+    "body": {
+      "date": "2019-11-22",
+      "featured": false,
+      "image": "/assets/f115.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t115.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-117",
+    "sort": 124,
+    "body": {
+      "date": "2024-01-03",
+      "featured": false,
+      "image": "/assets/f116.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t116.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-118",
+    "sort": 123,
+    "body": {
+      "date": "2020-01-22",
+      "featured": false,
+      "image": "/assets/f117.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t117.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-119",
+    "sort": 122,
+    "body": {
+      "date": "2025-08-13",
+      "featured": false,
+      "image": "/assets/f118.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t118.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-120",
+    "sort": 121,
+    "body": {
+      "date": "2019-10-23",
+      "featured": false,
+      "image": "/assets/f119.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t119.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-121",
+    "sort": 120,
+    "body": {
+      "date": "2022-01-03",
+      "featured": false,
+      "image": "/assets/f120.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t120.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-122",
+    "sort": 119,
+    "body": {
+      "date": "2025-10-14",
+      "featured": true,
+      "image": "/assets/f121.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t121.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-123",
+    "sort": 118,
+    "body": {
+      "date": "2024-06-03",
+      "featured": false,
+      "image": "/assets/f122.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t122.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-124",
+    "sort": 117,
+    "body": {
+      "date": "2020-10-16",
+      "featured": false,
+      "image": "/assets/f123.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t123.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-125",
+    "sort": 116,
+    "body": {
+      "date": "2023-02-10",
+      "featured": false,
+      "image": "/assets/f124.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t124.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-126",
+    "sort": 115,
+    "body": {
+      "date": "2024-06-10",
+      "featured": false,
+      "image": "/assets/f125.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t125.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-127",
+    "sort": 114,
+    "body": {
+      "date": "2020-02-13",
+      "featured": false,
+      "image": "/assets/f126.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t126.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-128",
+    "sort": 113,
+    "body": {
+      "date": "2023-07-08",
+      "featured": false,
+      "image": "/assets/f127.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t127.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-129",
+    "sort": 112,
+    "body": {
+      "date": "2022-05-28",
+      "featured": false,
+      "image": "/assets/f128.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t128.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-130",
+    "sort": 111,
+    "body": {
+      "date": "2021-04-26",
+      "featured": false,
+      "image": "/assets/f129.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t129.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-131",
+    "sort": 110,
+    "body": {
+      "date": "2021-06-27",
+      "featured": false,
+      "image": "/assets/f130.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t130.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-132",
+    "sort": 109,
+    "body": {
+      "date": "2020-04-05",
+      "featured": false,
+      "image": "/assets/f131.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t131.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-133",
+    "sort": 108,
+    "body": {
+      "date": "2019-12-02",
+      "featured": false,
+      "image": "/assets/f132.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t132.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-134",
+    "sort": 107,
+    "body": {
+      "date": "2022-12-01",
+      "featured": false,
+      "image": "/assets/f133.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t133.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-135",
+    "sort": 106,
+    "body": {
+      "date": "2023-12-11",
+      "featured": false,
+      "image": "/assets/f134.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t134.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-136",
+    "sort": 105,
+    "body": {
+      "date": "2020-03-01",
+      "featured": false,
+      "image": "/assets/f135.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t135.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-137",
+    "sort": 104,
+    "body": {
+      "date": "2025-01-20",
+      "featured": false,
+      "image": "/assets/f136.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t136.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-138",
+    "sort": 103,
+    "body": {
+      "date": "2022-01-25",
+      "featured": false,
+      "image": "/assets/f137.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t137.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-139",
+    "sort": 102,
+    "body": {
+      "date": "2022-05-14",
+      "featured": false,
+      "image": "/assets/f138.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t138.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-140",
+    "sort": 101,
+    "body": {
+      "date": "2026-01-21",
+      "featured": false,
+      "image": "/assets/f139.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t139.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-141",
+    "sort": 100,
+    "body": {
+      "date": "2022-09-21",
+      "featured": false,
+      "image": "/assets/f140.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t140.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-142",
+    "sort": 99,
+    "body": {
+      "date": "2022-11-26",
+      "featured": false,
+      "image": "/assets/f141.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t141.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-143",
+    "sort": 98,
+    "body": {
+      "date": "2026-06-26",
+      "featured": false,
+      "image": "/assets/f142.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t142.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-144",
+    "sort": 97,
+    "body": {
+      "date": "2019-09-16",
+      "featured": false,
+      "image": "/assets/f143.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t143.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-145",
+    "sort": 96,
+    "body": {
+      "date": "2020-09-20",
+      "featured": false,
+      "image": "/assets/f144.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t144.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-146",
+    "sort": 95,
+    "body": {
+      "date": "2024-11-22",
+      "featured": false,
+      "image": "/assets/f145.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t145.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-147",
+    "sort": 94,
+    "body": {
+      "date": "2024-11-28",
+      "featured": false,
+      "image": "/assets/f146.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t146.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-148",
+    "sort": 93,
+    "body": {
+      "date": "2024-07-18",
+      "featured": false,
+      "image": "/assets/f147.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t147.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-149",
+    "sort": 92,
+    "body": {
+      "date": "2020-09-24",
+      "featured": false,
+      "image": "/assets/f148.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t148.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-150",
+    "sort": 91,
+    "body": {
+      "date": "2019-10-08",
+      "featured": false,
+      "image": "/assets/f149.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t149.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-151",
+    "sort": 90,
+    "body": {
+      "date": "2023-12-15",
+      "featured": false,
+      "image": "/assets/f150.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t150.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-152",
+    "sort": 89,
+    "body": {
+      "date": "2023-08-17",
+      "featured": false,
+      "image": "/assets/f151.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t151.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-153",
+    "sort": 88,
+    "body": {
+      "date": "2023-10-16",
+      "featured": false,
+      "image": "/assets/f152.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t152.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-154",
+    "sort": 87,
+    "body": {
+      "date": "2026-04-10",
+      "featured": false,
+      "image": "/assets/f153.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t153.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-155",
+    "sort": 86,
+    "body": {
+      "date": "2021-07-09",
+      "featured": false,
+      "image": "/assets/f154.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t154.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-156",
+    "sort": 85,
+    "body": {
+      "date": "2019-08-13",
+      "featured": false,
+      "image": "/assets/f155.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t155.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-157",
+    "sort": 84,
+    "body": {
+      "date": "2024-07-11",
+      "featured": false,
+      "image": "/assets/f156.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t156.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-158",
+    "sort": 83,
+    "body": {
+      "date": "2020-04-16",
+      "featured": false,
+      "image": "/assets/f157.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t157.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-159",
+    "sort": 82,
+    "body": {
+      "date": "2023-04-26",
+      "featured": false,
+      "image": "/assets/f158.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t158.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-160",
+    "sort": 81,
+    "body": {
+      "date": "2024-06-15",
+      "featured": false,
+      "image": "/assets/f159.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t159.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-161",
+    "sort": 80,
+    "body": {
+      "date": "2023-05-12",
+      "featured": false,
+      "image": "/assets/f160.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t160.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-162",
+    "sort": 79,
+    "body": {
+      "date": "2023-07-05",
+      "featured": false,
+      "image": "/assets/f161.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t161.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-163",
+    "sort": 78,
+    "body": {
+      "date": "2026-12-01",
+      "featured": false,
+      "image": "/assets/f162.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t162.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-164",
+    "sort": 77,
+    "body": {
+      "date": "2020-07-12",
+      "featured": false,
+      "image": "/assets/f163.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t163.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-165",
+    "sort": 76,
+    "body": {
+      "date": "2026-05-06",
+      "featured": false,
+      "image": "/assets/f164.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t164.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-166",
+    "sort": 75,
+    "body": {
+      "date": "2023-02-28",
+      "featured": false,
+      "image": "/assets/f165.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t165.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-167",
+    "sort": 74,
+    "body": {
+      "date": "2024-01-26",
+      "featured": false,
+      "image": "/assets/f166.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t166.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-168",
+    "sort": 73,
+    "body": {
+      "date": "2026-06-22",
+      "featured": false,
+      "image": "/assets/f167.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t167.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-169",
+    "sort": 72,
+    "body": {
+      "date": "2024-03-18",
+      "featured": false,
+      "image": "/assets/f168.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t168.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-170",
+    "sort": 71,
+    "body": {
+      "date": "2025-12-15",
+      "featured": true,
+      "image": "/assets/f169.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t169.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-171",
+    "sort": 70,
+    "body": {
+      "date": "2022-11-14",
+      "featured": false,
+      "image": "/assets/f170.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t170.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-172",
+    "sort": 69,
+    "body": {
+      "date": "2023-10-14",
+      "featured": false,
+      "image": "/assets/f171.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t171.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-173",
+    "sort": 68,
+    "body": {
+      "date": "2020-08-05",
+      "featured": false,
+      "image": "/assets/f172.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t172.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-174",
+    "sort": 67,
+    "body": {
+      "date": "2024-07-27",
+      "featured": false,
+      "image": "/assets/f173.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t173.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-175",
+    "sort": 66,
+    "body": {
+      "date": "2026-06-09",
+      "featured": false,
+      "image": "/assets/f174.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t174.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-176",
+    "sort": 65,
+    "body": {
+      "date": "2021-06-07",
+      "featured": false,
+      "image": "/assets/f175.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t175.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-177",
+    "sort": 64,
+    "body": {
+      "date": "2024-03-20",
+      "featured": false,
+      "image": "/assets/f176.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t176.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-178",
+    "sort": 63,
+    "body": {
+      "date": "2023-12-07",
+      "featured": false,
+      "image": "/assets/f177.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t177.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-179",
+    "sort": 62,
+    "body": {
+      "date": "2024-04-24",
+      "featured": true,
+      "image": "/assets/f178.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t178.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-180",
+    "sort": 61,
+    "body": {
+      "date": "2023-03-09",
+      "featured": false,
+      "image": "/assets/f179.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t179.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-181",
+    "sort": 60,
+    "body": {
+      "date": "2026-09-25",
+      "featured": true,
+      "image": "/assets/f180.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t180.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-182",
+    "sort": 59,
+    "body": {
+      "date": "2022-03-15",
+      "featured": false,
+      "image": "/assets/f181.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t181.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-183",
+    "sort": 58,
+    "body": {
+      "date": "2023-11-01",
+      "featured": false,
+      "image": "/assets/f182.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t182.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-184",
+    "sort": 57,
+    "body": {
+      "date": "2020-04-01",
+      "featured": false,
+      "image": "/assets/f183.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t183.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-185",
+    "sort": 56,
+    "body": {
+      "date": "2021-11-19",
+      "featured": false,
+      "image": "/assets/f184.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t184.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-186",
+    "sort": 55,
+    "body": {
+      "date": "2022-07-04",
+      "featured": false,
+      "image": "/assets/f185.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t185.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-187",
+    "sort": 54,
+    "body": {
+      "date": "2025-01-24",
+      "featured": false,
+      "image": "/assets/f186.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t186.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-188",
+    "sort": 53,
+    "body": {
+      "date": "2021-01-02",
+      "featured": false,
+      "image": "/assets/f187.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t187.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-189",
+    "sort": 52,
+    "body": {
+      "date": "2024-08-14",
+      "featured": false,
+      "image": "/assets/f188.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t188.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-190",
+    "sort": 51,
+    "body": {
+      "date": "2019-02-25",
+      "featured": false,
+      "image": "/assets/f189.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t189.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-191",
+    "sort": 50,
+    "body": {
+      "date": "2020-11-20",
+      "featured": true,
+      "image": "/assets/f190.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t190.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-192",
+    "sort": 49,
+    "body": {
+      "date": "2022-01-06",
+      "featured": false,
+      "image": "/assets/f191.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t191.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-193",
+    "sort": 48,
+    "body": {
+      "date": "2026-06-15",
+      "featured": false,
+      "image": "/assets/f192.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t192.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-194",
+    "sort": 47,
+    "body": {
+      "date": "2024-11-21",
+      "featured": false,
+      "image": "/assets/f193.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t193.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-195",
+    "sort": 46,
+    "body": {
+      "date": "2019-09-05",
+      "featured": false,
+      "image": "/assets/f194.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t194.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-196",
+    "sort": 45,
+    "body": {
+      "date": "2019-03-17",
+      "featured": false,
+      "image": "/assets/f195.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t195.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-197",
+    "sort": 44,
+    "body": {
+      "date": "2026-07-12",
+      "featured": true,
+      "image": "/assets/f196.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t196.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-198",
+    "sort": 43,
+    "body": {
+      "date": "2025-09-08",
+      "featured": false,
+      "image": "/assets/f197.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t197.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-199",
+    "sort": 42,
+    "body": {
+      "date": "2024-03-11",
+      "featured": false,
+      "image": "/assets/f198.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t198.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-200",
+    "sort": 41,
+    "body": {
+      "date": "2020-08-07",
+      "featured": false,
+      "image": "/assets/f199.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t199.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-201",
+    "sort": 40,
+    "body": {
+      "date": "2025-05-01",
+      "featured": false,
+      "image": "/assets/f200.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t200.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-202",
+    "sort": 39,
+    "body": {
+      "date": "2021-04-11",
+      "featured": false,
+      "image": "/assets/f201.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t201.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-203",
+    "sort": 38,
+    "body": {
+      "date": "2022-05-17",
+      "featured": false,
+      "image": "/assets/f202.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t202.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-204",
+    "sort": 37,
+    "body": {
+      "date": "2019-03-07",
+      "featured": false,
+      "image": "/assets/f203.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t203.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-205",
+    "sort": 36,
+    "body": {
+      "date": "2020-01-25",
+      "featured": false,
+      "image": "/assets/f204.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t204.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-206",
+    "sort": 35,
+    "body": {
+      "date": "2020-05-14",
+      "featured": false,
+      "image": "/assets/f205.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t205.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-207",
+    "sort": 34,
+    "body": {
+      "date": "2026-08-14",
+      "featured": false,
+      "image": "/assets/f206.jpg",
+      "kind": "app",
+      "place": "shanghai",
+      "thumbnail": "/assets/t206.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-208",
+    "sort": 33,
+    "body": {
+      "date": "2019-03-26",
+      "featured": false,
+      "image": "/assets/f207.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t207.jpg",
+      "title": "fold"
+    }
+  },
+  {
+    "slug": "work-209",
+    "sort": 32,
+    "body": {
+      "date": "2026-11-12",
+      "featured": false,
+      "image": "/assets/f208.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t208.jpg",
+      "title": "echo"
+    }
+  },
+  {
+    "slug": "work-210",
+    "sort": 31,
+    "body": {
+      "date": "2026-06-14",
+      "featured": false,
+      "image": "/assets/f209.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t209.jpg",
+      "title": "sundial"
+    }
+  },
+  {
+    "slug": "work-211",
+    "sort": 30,
+    "body": {
+      "date": "2025-06-26",
+      "featured": false,
+      "image": "/assets/f210.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t210.jpg",
+      "title": "inkwell"
+    }
+  },
+  {
+    "slug": "work-212",
+    "sort": 29,
+    "body": {
+      "date": "2021-11-01",
+      "featured": false,
+      "image": "/assets/f211.jpg",
+      "kind": "app",
+      "place": "beijing",
+      "thumbnail": "/assets/t211.jpg",
+      "title": "tidepool"
+    }
+  },
+  {
+    "slug": "work-213",
+    "sort": 28,
+    "body": {
+      "date": "2021-06-07",
+      "featured": false,
+      "image": "/assets/f212.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t212.jpg",
+      "title": "lantern"
+    }
+  },
+  {
+    "slug": "work-214",
+    "sort": 27,
+    "body": {
+      "date": "2021-06-19",
+      "featured": false,
+      "image": "/assets/f213.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t213.jpg",
+      "title": "compass"
+    }
+  },
+  {
+    "slug": "work-215",
+    "sort": 26,
+    "body": {
+      "date": "2022-12-20",
+      "featured": false,
+      "image": "/assets/f214.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t214.jpg",
+      "title": "postcard"
+    }
+  },
+  {
+    "slug": "work-216",
+    "sort": 25,
+    "body": {
+      "date": "2019-01-21",
+      "featured": false,
+      "image": "/assets/f215.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t215.jpg",
+      "title": "murmur"
+    }
+  },
+  {
+    "slug": "work-217",
+    "sort": 24,
+    "body": {
+      "date": "2026-03-05",
+      "featured": false,
+      "image": "/assets/f216.jpg",
+      "kind": "app",
+      "place": "online",
+      "thumbnail": "/assets/t216.jpg",
+      "title": "hello world"
+    }
+  },
+  {
+    "slug": "work-218",
+    "sort": 23,
+    "body": {
+      "date": "2019-08-01",
+      "featured": false,
+      "image": "/assets/f217.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t217.jpg",
+      "title": "quiet mode"
+    }
+  },
+  {
+    "slug": "work-219",
+    "sort": 22,
+    "body": {
+      "date": "2021-09-15",
+      "featured": false,
+      "image": "/assets/f218.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t218.jpg",
+      "title": "big button"
+    }
+  },
+  {
+    "slug": "work-220",
+    "sort": 21,
+    "body": {
+      "date": "2023-09-17",
+      "featured": false,
+      "image": "/assets/f219.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t219.jpg",
+      "title": "late reply"
+    }
+  },
+  {
+    "slug": "work-221",
+    "sort": 20,
+    "body": {
+      "date": "2019-03-15",
+      "featured": false,
+      "image": "/assets/f220.jpg",
+      "kind": "app",
+      "place": "tokyo",
+      "thumbnail": "/assets/t220.jpg",
+      "title": "spare room"
+    }
+  },
+  {
+    "slug": "work-222",
+    "sort": 19,
+    "body": {
+      "date": "2022-01-28",
+      "featured": false,
+      "image": "/assets/f221.jpg",
+      "kind": "image",
+      "place": "tokyo",
+      "thumbnail": "/assets/t221.jpg",
+      "title": "loading…"
+    }
+  },
+  {
+    "slug": "work-223",
+    "sort": 18,
+    "body": {
+      "date": "2023-07-11",
+      "featured": true,
+      "image": "/assets/f222.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t222.jpg",
+      "title": "new tab"
+    }
+  },
+  {
+    "slug": "work-224",
+    "sort": 17,
+    "body": {
+      "date": "2021-08-02",
+      "featured": false,
+      "image": "/assets/f223.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t223.jpg",
+      "title": "low battery"
+    }
+  },
+  {
+    "slug": "work-225",
+    "sort": 16,
+    "body": {
+      "date": "2026-07-18",
+      "featured": false,
+      "image": "/assets/f224.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t224.jpg",
+      "title": "field notes"
+    }
+  },
+  {
+    "slug": "work-226",
+    "sort": 15,
+    "body": {
+      "date": "2025-12-07",
+      "featured": true,
+      "image": "/assets/f225.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t225.jpg",
+      "title": "soft clock"
+    }
+  },
+  {
+    "slug": "work-227",
+    "sort": 14,
+    "body": {
+      "date": "2025-05-16",
+      "featured": false,
+      "image": "/assets/f226.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t226.jpg",
+      "title": "paper moon"
+    }
+  },
+  {
+    "slug": "work-228",
+    "sort": 13,
+    "body": {
+      "date": "2024-01-19",
+      "featured": false,
+      "image": "/assets/f227.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t227.jpg",
+      "title": "tiny radio"
+    }
+  },
+  {
+    "slug": "work-229",
+    "sort": 12,
+    "body": {
+      "date": "2019-08-16",
+      "featured": false,
+      "image": "/assets/f228.jpg",
+      "kind": "image",
+      "place": "beijing",
+      "thumbnail": "/assets/t228.jpg",
+      "title": "weather box"
+    }
+  },
+  {
+    "slug": "work-230",
+    "sort": 11,
+    "body": {
+      "date": "2026-03-18",
+      "featured": false,
+      "image": "/assets/f229.jpg",
+      "kind": "image",
+      "place": "shanghai",
+      "thumbnail": "/assets/t229.jpg",
+      "title": "slow mail"
+    }
+  },
+  {
+    "slug": "work-231",
+    "sort": 10,
+    "body": {
+      "date": "2022-07-27",
+      "featured": false,
+      "image": "/assets/f230.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t230.jpg",
+      "title": "pocket map"
+    }
+  },
+  {
+    "slug": "work-232",
+    "sort": 9,
+    "body": {
+      "date": "2023-08-07",
+      "featured": false,
+      "image": "/assets/f231.jpg",
+      "kind": "app",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t231.jpg",
+      "title": "lumen"
+    }
+  },
+  {
+    "slug": "work-233",
+    "sort": 8,
+    "body": {
+      "date": "2020-07-27",
+      "featured": false,
+      "image": "/assets/f232.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t232.jpg",
+      "title": "drift"
+    }
+  },
+  {
+    "slug": "work-234",
+    "sort": 7,
+    "body": {
+      "date": "2025-08-17",
+      "featured": false,
+      "image": "/assets/f233.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t233.jpg",
+      "title": "orbit"
+    }
+  },
+  {
+    "slug": "work-235",
+    "sort": 6,
+    "body": {
+      "date": "2024-12-19",
+      "featured": false,
+      "image": "/assets/f234.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t234.jpg",
+      "title": "pebble"
+    }
+  },
+  {
+    "slug": "work-236",
+    "sort": 5,
+    "body": {
+      "date": "2022-03-26",
+      "featured": false,
+      "image": "/assets/f235.jpg",
+      "kind": "image",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t235.jpg",
+      "title": "habit loop"
+    }
+  },
+  {
+    "slug": "work-237",
+    "sort": 4,
+    "body": {
+      "date": "2023-12-20",
+      "featured": false,
+      "image": "/assets/f236.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t236.jpg",
+      "title": "glass type"
+    }
+  },
+  {
+    "slug": "work-238",
+    "sort": 3,
+    "body": {
+      "date": "2024-08-24",
+      "featured": false,
+      "image": "/assets/f237.jpg",
+      "kind": "image",
+      "place": "hangzhou",
+      "thumbnail": "/assets/t237.jpg",
+      "title": "night shift"
+    }
+  },
+  {
+    "slug": "work-239",
+    "sort": 2,
+    "body": {
+      "date": "2020-08-13",
+      "featured": false,
+      "image": "/assets/f238.jpg",
+      "kind": "image",
+      "place": "online",
+      "thumbnail": "/assets/t238.jpg",
+      "title": "small talk"
+    }
+  },
+  {
+    "slug": "work-240",
+    "sort": 1,
+    "body": {
+      "date": "2020-11-16",
+      "featured": false,
+      "image": "/assets/f239.jpg",
+      "kind": "app",
+      "place": "shenzhen",
+      "thumbnail": "/assets/t239.jpg",
+      "title": "fold"
+    }
+  }
+]
