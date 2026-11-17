@@ -2,7 +2,9 @@
 
 Hundreds of work cards form a 3D sphere you can drag and spin, then morph into a heart, smiley, star or grid. Click any card for the full piece; all works live in one content file. Made for photographers, illustrators and designers.
 
-**[Live preview](https://qep1hdxsis8y.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep1ha9ifpf2&utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio)**
+[![Sphere — Spherical Work Gallery](https://fsu.creght.com/site/2121561300969459712/1794745203751__qdiw3qg0cj2a_b.jpg?w=1200&fmt=jpg)](https://qep1hdxsis8y.site.talizen.com/)
+
+**[Live preview](https://qep1hdxsis8y.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep1ha9ifpf2&utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio)** · **[Star on GitHub](https://github.com/talizen/sphere-portfolio)**
 
 A free website template from **[Talizen Templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio)**, built with [Talizen](https://www.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=sphere-portfolio).
 
